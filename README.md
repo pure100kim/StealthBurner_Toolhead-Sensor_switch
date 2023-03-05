@@ -1,5 +1,7 @@
-# StealthBurner_Toolhead-Sensor_switch
-ERCF Toolhead filament sensor without hall sensor. using magnetic and switch.
+ERCF StealthBurner_Filament detection Toolhead-Sensor_switch&magnetic
+ERCF Toolhead filament sensor without hall sensor. 
+using magnetic and switch.
+
 
 Preparing parts
 - 6x3 neodymium magnetic 1EA
